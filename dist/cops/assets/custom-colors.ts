@@ -1,8 +1,13 @@
 const colors = {
-  alert:'rgba(235, 160, 71, 0.7)',
-  warn:'rgba(217, 53, 74, 0.7)',
-  success:'rgba(107, 162, 123, 0.7)',
-  normal:'rgba(54, 162, 235, 0.7)',
+  alert:'#FFC107',
+  alertLight:'#FFE082',
+  warn:'#F44336',
+  warnLight:'#EF9A9A',
+  // success:'rgba(107, 162, 123, 0.7)',
+  // success:'#4CAF50',
+  success: '#4CAF50',
+  successLight:'#A5D6A7',
+  normal:'rgba(5, 155, 155, 1)',
   accent:'',
   primary:''
 }
