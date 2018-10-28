@@ -9,7 +9,8 @@ const colors = {
   successLight:'#A5D6A7',
   normal:'rgba(5, 155, 155, 1)',
   accent:'',
-  primary:'rgba(23,77,114,1)'
+  primary:'rgba(23,77,114,1)',
+  primaryLight:'rgba(23,77,114,0.4)'
 }
 
 export default colors;
