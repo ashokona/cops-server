@@ -1340,8 +1340,6 @@ MIT
 
 @angular/material/progress-bar
 
-@angular/material/stepper
-
 firebase/messaging
 
 @firebase/messaging
